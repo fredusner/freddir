@@ -1,0 +1,2 @@
+# freddir
+freds directory
